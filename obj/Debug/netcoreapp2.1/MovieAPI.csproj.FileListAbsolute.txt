@@ -1,0 +1,16 @@
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\appsettings.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.deps.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.runtimeconfig.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.runtimeconfig.dev.json
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.dll
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\bin\Debug\netcoreapp2.1\MovieAPI.pdb
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.csprojAssemblyReference.cache
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorAssemblyInfo.cache
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorAssemblyInfo.cs
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.AssemblyInfoInputs.cache
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.AssemblyInfo.cs
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.RazorTargetAssemblyInfo.cache
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.dll
+F:\DOCUMENt\UNIVERSITYYY\CNPM\My Bao cao _ Thuyet trinh\MovieAPI\obj\Debug\netcoreapp2.1\MovieAPI.pdb
